@@ -1,0 +1,48 @@
+_repo: Der-Hitler-Ludendorff-Prozess_75700
+_version: 0.0.1
+alternative_title: Der Hitler-Ludendorff-Prozess
+creator:
+  author:
+    agent_name: Lania, Leo
+    aliases:
+    - Herrmann, Lazar
+    - Lania, L. (Leo)
+    - Lania, Leon
+    birthdate: 1896
+    deathdate: 1961
+    gutenberg_agent_id: '58107'
+    url: http://www.gutenberg.org/2009/agents/58107
+    wikipedia: https://en.wikipedia.org/wiki/L%C3%A9o_Lania
+  editor:
+    agent_name: Leonhard, Rudolf
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '36361'
+    url: http://www.gutenberg.org/2009/agents/36361
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
+description: ''
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75700'
+  lccn: '53054207'
+language: de
+pgterms:marc905: 20211107060148lania
+pgterms:marc906: '1925'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bDie Schmiede, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Außenseiter der Gesellschaft. Die Verbrechen der Gegenwart. Band 9
+- Aussenseiter der Gesellschaft. Die Verbrechen der Gegenwart. Band 9
+subjects:
+- !lcsh 'Ludendorff, Erich, 1865-1937'
+- !lcsh 'Hitler, Adolf, 1889-1945'
+- !lcsh 'Trials -- Germany'
+- !lcc 'DD'
+- GITenberg
+title: Der Hitler-Ludendorff-Prozeß
+url: http://www.gutenberg.org/ebooks/75700

@@ -1,6 +1,9 @@
 _repo: Der-Hitler-Ludendorff-Prozess_75700
 _version: 0.1.0
 alternative_title: Der Hitler-Ludendorff-Prozess
+covers:
+- cover_type: archival
+  image_path: 75700-h/images/cover.jpg
 creator:
   author:
     agent_name: Lania, Leo
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75700#Der-Hitler-Ludendorff-Prozess
 gutenberg_issued: '2025-03-24'
 gutenberg_type: Text
 identifiers:
